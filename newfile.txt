@@ -1,1 +1,1 @@
-hemlo boyms
+printf("Hello World");
